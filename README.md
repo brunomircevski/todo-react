@@ -1,4 +1,4 @@
-# ToDo app in React
+# ToDo app in React with TypeScript
 Viewing, creating, completing, deleting tasks.
 
 
