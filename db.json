@@ -1,0 +1,54 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "deviceType": "Telefon",
+      "model": "Galaxy S20",
+      "date": "2012-04-23T18:25:43.511Z",
+      "taskState": "Nowe",
+      "price": 50,
+      "phoneNumber": 733333333,
+      "description": "Wymiana ekranu"
+    },
+    {
+      "id": 2,
+      "deviceType": "Telefon",
+      "model": "Oneplus 8t",
+      "date": "2012-04-23T18:25:43.511Z",
+      "taskState": "Nowe",
+      "price": 220,
+      "phoneNumber": 121231132,
+      "description": "Wymiana głośnika"
+    },
+    {
+      "id": 3,
+      "deviceType": "Telefon",
+      "model": "Galaxy S21",
+      "date": "2012-04-23T18:25:43.511Z",
+      "taskState": "W realizacji",
+      "price": 0,
+      "phoneNumber": 123123123,
+      "description": "Wymiana ekranu"
+    },
+    {
+      "id": 4,
+      "deviceType": "Tablet",
+      "model": "Galaxy Tab A52",
+      "date": "2012-04-23T18:25:43.511Z",
+      "taskState": "Zakończone",
+      "price": 333,
+      "phoneNumber": 733333333,
+      "description": "Wymiana ekranu"
+    },
+    {
+      "deviceType": "Telefon",
+      "model": "galaxy s22",
+      "date": "2023-01-03T15:43:02.457Z",
+      "taskState": "Zakończone",
+      "price": 10,
+      "phoneNumber": "123123123",
+      "description": "",
+      "id": 5
+    }
+  ]
+}
